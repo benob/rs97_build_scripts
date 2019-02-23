@@ -1,0 +1,5 @@
+Build software for the RS97 retro-handheld, targetting the RetroFW firmware.
+
+./build-toolchain.sh           download and build buildroot toolchain
+./build-abbaye.sh              build abbaye des morts
+./build-st-sdl-terminal.sh     build terminal
